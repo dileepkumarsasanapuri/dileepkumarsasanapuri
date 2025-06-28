@@ -65,7 +65,7 @@
 
 ## ✨ Let's Connect
 📧 Email: [dileepkumarsasanapuri@gmail.com]  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dileep-kumar-65933825b/)  
+💼 LinkedIn: [DileepKumar Sasanapuri](https://www.linkedin.com/in/dileep-kumar-65933825b/)  
 
 
 ---
