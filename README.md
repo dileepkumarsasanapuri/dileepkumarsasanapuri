@@ -39,21 +39,12 @@
 - Implemented using Python, PyTorch, and Ultralytics YOLO
 [🔗 View Repository](https://github.com/dileepkumarsasanapuri/Brain_Tumor_Detection_YOLOv8)
 
----
-
-### 🕹️ Tic Tac Toe Game with Bots and Players
-- Implemented object-oriented design for scalable N x N boards
-- Supports human players with profile and bot players with difficulty levels
-- Built using Java demonstrating solid OOP principles
-[🔗 View Repository](https://github.com/dileepkumarsasanapuri/TicTacToe_NxN)
-
----
-
-### 💡 System Design Notes and Projects
-- Contains notes, explanations, and mini-projects for system design preparation
-- Includes design patterns, scalable architecture examples, and interview preparation
-[🔗 View Repository](https://github.com/dileepkumarsasanapuri/System_Design_Notes)
-
+### Learning Management System 
+- Enforced secure user authentication with OTP generation and email verification for account sign-ups using 
+`jsonwebtoken` for secure token generation and `bcryptjs` for password hashing. 
+- Created robust password reset functionality to enhance user account security. 
+[🔗 View Repository](https://github.com/dileepkumarsasanapuri/eduvibe_frontend)
+[🔗 View Repository](https://github.com/dileepkumarsasanapuri/eduvibe_server)
 ---
 
 ## 📈 GitHub Stats
