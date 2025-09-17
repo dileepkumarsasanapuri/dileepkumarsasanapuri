@@ -47,13 +47,6 @@
 [🔗 View Repository](https://github.com/dileepkumarsasanapuri/eduvibe_server)
 ---
 
-## 📈 GitHub Stats
-
-![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileepkumarsasanapuri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dileepkumarsasanapuri&layout=compact&theme=radical)
-
----
-
 ## ✨ Let's Connect
 📧 Email: [dileepkumarsasanapuri@gmail.com]  
 💼 LinkedIn: [DileepKumar Sasanapuri](https://www.linkedin.com/in/dileep-kumar-65933825b/)  
