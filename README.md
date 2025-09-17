@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dileep Kumar Sasanapuri!
 
-![Profile Views](https://komarev.com/ghpvc/?username=dileepkumarsasanapuri&style=flat-square)
+
 
 ## 🚀 About Me
 🎓 Final year Computer Science student | Developer | Tech Enthusiast  
